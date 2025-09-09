@@ -277,5 +277,11 @@ export const MassDownloadList: string[] = [
   "https://cdn.discordapp.com/avatar-decoration-presets/a_306a56249fe3c3d2bc7a30041cb63e0e.png?size=1024&name=bloomling.png",
   "https://cdn.discordapp.com/avatar-decoration-presets/a_126219d37fa9422dab6a075064453750.png?size=1024&name=neon_nibbles.png",
   "https://cdn.discordapp.com/avatar-decoration-presets/a_e257ca83b5b164968fd036f69dbb2ad9.png?size=1024&name=uwu_xp.png",
-  "https://cdn.discordapp.com/avatar-decoration-presets/a_09bb4197c743ea31b7eb052eddd3e892.png?size=1024&name=hex_lights.png"
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_09bb4197c743ea31b7eb052eddd3e892.png?size=1024&name=hex_lights.png",
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_65ab42be2fb75f90282cbee2506e384c.png?size=1024&name=lunar_flowers.png",
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_55393fb776ecc721bc551823d4ea52df.png?size=1024&name=starlight_tiara.png",
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_6283377ab3c9b70accb1d24c06a2054a.png?size=1024&name=astral_aura.png",
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_54744b172ca901713390a1a6db472ba9.png?size=1024&name=luna_moths.png",
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_34f162fc767aeb087d8d54a6f1ce697b.png?size=1024&name=moonlit_charms.png",
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_c0393b6cc00148f32c5015d1417ca12c.png?size=1024&name=liquid_moon.png"
 ];

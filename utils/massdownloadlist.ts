@@ -283,5 +283,11 @@ export const MassDownloadList: string[] = [
   "https://cdn.discordapp.com/avatar-decoration-presets/a_6283377ab3c9b70accb1d24c06a2054a.png?size=1024&name=astral_aura.png",
   "https://cdn.discordapp.com/avatar-decoration-presets/a_54744b172ca901713390a1a6db472ba9.png?size=1024&name=luna_moths.png",
   "https://cdn.discordapp.com/avatar-decoration-presets/a_34f162fc767aeb087d8d54a6f1ce697b.png?size=1024&name=moonlit_charms.png",
-  "https://cdn.discordapp.com/avatar-decoration-presets/a_c0393b6cc00148f32c5015d1417ca12c.png?size=1024&name=liquid_moon.png"
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_c0393b6cc00148f32c5015d1417ca12c.png?size=1024&name=liquid_moon.png",
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_e48505784277211beeb09c9b98a7cff2.png?size=1024&name=im_dancin.png",
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_e834d37eb529f560736a83a01bbf4c2a.png?size=1024&name=finger_gun.png",
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_3f7f75e0f33fc427ad5ca2230e2fca15.png?size=1024&name=bandit_mask.png",
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_3f5827887a00d063a133ab8da760bb8b.png?size=1024&name=mad_moxxi.png",
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_92f3a8065b43ecef6122b77ee11b5f68.png?size=1024&name=elpis.png",
+  "https://cdn.discordapp.com/avatar-decoration-presets/a_a52ebc917ecea3a79eb0228402b788b3.png?size=1024&name=loot_lightshow.png"
 ];
